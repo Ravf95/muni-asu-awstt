@@ -1,0 +1,9 @@
+boto3==1.17.68
+botocore==1.20.68
+jmespath==0.10.0
+Pillow==8.2.0
+psutil==5.8.0
+python-dateutil==2.8.1
+s3transfer==0.4.2
+six==1.16.0
+urllib3==1.26.4
